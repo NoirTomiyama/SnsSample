@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448971802762",
+    "firebase_url": "https://snssample-11cd5.firebaseio.com",
+    "project_id": "snssample-11cd5",
+    "storage_bucket": "snssample-11cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448971802762:android:23b275750ec431e3",
+        "android_client_info": {
+          "package_name": "jp.tomiyama.noir.snssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448971802762-klr2lhgnndi9hh43r71iivuq2i2v2jhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIvsskh33ARzKRNxLirFdApT7vVgj02w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
